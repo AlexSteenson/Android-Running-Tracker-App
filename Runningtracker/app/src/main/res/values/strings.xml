@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Running tracker</string>
+    <string name="title_activity_select_existing_run">SelectExistingRun</string>
+</resources>
